@@ -36,7 +36,7 @@
         "start:dev": "cross-env NODE_ENV=development ts-node-dev --respawn --transpile-only src/index.ts"
     },
     "devDependencies": {
-        "@jitsi/eslint-config": "^4.1.0",
+        "@jitsi/eslint-config": "^4.1.12",
         "@types/dotenv": "^8.2.0",
         "@typescript-eslint/eslint-plugin": "5.30.5",
         "@typescript-eslint/parser": "5.30.4",
