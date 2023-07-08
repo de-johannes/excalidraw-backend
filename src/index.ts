@@ -30,7 +30,7 @@ const io = socketIO(server, {
     handlePreflightRequest: (req, res) => {
         const headers = {
             'Access-Control-Allow-Headers': 'Content-Type, Authorization',
-            'Access-Control-Allow-Origin': req.header?.origin ?? 'https://meet.jit.si',
+            'Access-Control-Allow-Origin': req.header?.origin ?? 'https://hallo.johanneswerk.de',
             'Access-Control-Allow-Credentials': true
         };
 
