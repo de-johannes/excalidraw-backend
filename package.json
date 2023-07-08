@@ -40,7 +40,7 @@
         "@types/dotenv": "^8.2.0",
         "@typescript-eslint/eslint-plugin": "5.30.5",
         "@typescript-eslint/parser": "5.30.4",
-        "eslint": "8.1.0",
+        "eslint": "8.44.0",
         "eslint-plugin-import": "2.25.2",
         "eslint-plugin-jsdoc": "37.0.3",
         "eslint-plugin-typescript-sort-keys": "^2.1.0"
