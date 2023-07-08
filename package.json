@@ -5,7 +5,7 @@
     "description": "Excalidraw backend",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jitsi/excalidraw-backend"
+        "url": "https://github.com/de-johannes/excalidraw-backend/"
     },
     "private": true,
     "engines": {
