@@ -4,6 +4,7 @@ WORKDIR /excalidraw-backend
 
 COPY package.json package-lock.json tsconfig.json src ./
 RUN npm install
+RUN npm audit fix
 RUN npm run build
 
 EXPOSE 80
