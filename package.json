@@ -38,7 +38,7 @@
     "devDependencies": {
         "@jitsi/eslint-config": "^4.1.12",
         "@types/dotenv": "^8.2.0",
-        "@typescript-eslint/eslint-plugin": "5.30.5",
+        "@typescript-eslint/eslint-plugin": "6.5.0",
         "@typescript-eslint/parser": "5.30.4",
         "eslint": "8.44.0",
         "eslint-plugin-import": "2.27.5",
